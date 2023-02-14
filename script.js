@@ -1,3 +1,0 @@
-  let numero = 10
-
-  
